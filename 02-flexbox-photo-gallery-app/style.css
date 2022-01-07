@@ -13,3 +13,8 @@ body {
     padding: 32px;
     background-color: #E0DDDD;
 }
+
+#gallery img {
+    width: 25%;
+    height: 300px;
+}
